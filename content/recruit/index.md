@@ -8,4 +8,5 @@ draft: false
 
 入部希望の方は下記のGoogleフォームから氏名・学籍番号をご連絡ください。学内メールでサークル内で使用しているDiscord(コミュニケーションツール)の招待リンクをお伝えします。
 
-（ここにリンクを貼る）
+
+[入部フォーム](https://docs.google.com/forms/d/e/1FAIpQLSd1HcEX3gyh_k9pFHLmgronzGIc5MuiuFfyFbK5Ae4rK8C4iQ/viewform?usp=sf_link)
