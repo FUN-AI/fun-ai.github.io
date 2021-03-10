@@ -21,5 +21,5 @@ hugo new posts/nannka-post.md
 ## デプロイ方法
 
 1. ページを追加したらmainブランチにpushする。
-`
-2. その後、 `publish_to_ghpages.sh` を実行する。
+1. (二回目以降) publicディレクトリを削除する。
+1. その後、 `publish_to_ghpages.sh` を実行する。
