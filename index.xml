@@ -7,6 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language><atom:link href="https://fun-ai.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>サークル加入案内</title>
+      <link>https://fun-ai.github.io/recruit/</link>
+      <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fun-ai.github.io/recruit/</guid>
+      <description>サークルの活動内容については「サークル概要」をご覧ください。</description>
+    </item>
+    
+    <item>
       <title>サークル概要</title>
       <link>https://fun-ai.github.io/about/</link>
       <pubDate>Mon, 05 Apr 2021 14:05:20 +0900</pubDate>
@@ -17,15 +26,6 @@
 基本データ  正式名称：公立はこだて未来大学人工知能サークル 設立：2018年 活動内容：人工知能に関する探求  活動の詳細  場所：オンライン（Discord） 時間：週1~2回 放課後1.5時間（時間割によります。） 内容：輪講会、輪読会、もくもく会 メンバー数：49人 (2020年度)  輪講会 論文や本の要約など、勉強したことをまとめ、サークルメンバに発表する会を実施しています。 論文の選考基準として、「人工知能」に関係するならば全て可としています。(例：機械学習, データサイエンス, 神経科学, etc..) それによって様々な面から人工知能開発について考えられる様になる事を目的としています。
 輪読会 何人かの部員で共通の本を読み進めていく会です。担当箇所を分担し、毎週持ち回りでまとめ資料の発表を行います。一人で勉強するよりも理解を深めること、そして学習ペースを維持することを目的としています。
 その他の活動 文化祭（未来祭）への出店や展示</description>
-    </item>
-    
-    <item>
-      <title>サークル加入案内</title>
-      <link>https://fun-ai.github.io/recruit/</link>
-      <pubDate>Sun, 31 Jan 2021 14:05:26 +0900</pubDate>
-      
-      <guid>https://fun-ai.github.io/recruit/</guid>
-      <description>サークルの活動内容については「サークル概要」をご覧ください。</description>
     </item>
     
   </channel>
